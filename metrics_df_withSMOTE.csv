@@ -1,0 +1,10 @@
+,Accuracy,Precision,Recall,F1 Score,ROC AUC
+Logistic Regression,0.77,0.77,0.77,0.77,0.85
+Decision Tree,0.78,0.78,0.78,0.78,0.79
+Random Forest,0.83,0.83,0.83,0.83,0.91
+Gradient Boosting,0.81,0.82,0.81,0.81,0.9
+XGBoost,0.83,0.83,0.83,0.83,0.92
+LightGBM,0.83,0.83,0.83,0.83,0.92
+CatBoost,0.84,0.84,0.84,0.84,0.92
+Support Vector Machine,0.78,0.78,0.78,0.78,0.85
+K-Nearest Neighbors,0.79,0.79,0.79,0.79,0.85
